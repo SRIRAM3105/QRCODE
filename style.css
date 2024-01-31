@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color:  hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    font-size: 15px;
+}
+.wrapper{
+    max-width:  300px;
+    margin:0 auto;
+    background-color: hsl(0, 0%, 100%);
+   
+    border-radius:18px;
+    text-align: center;
+}
+.box img{
+    width:100%;
+    border-radius: 16px;
+    padding-bottom: 10px;
+}
+.letters{
+    padding:15px 15px;
+}
+.letters h3{
+  color:   hsl(218, 44%, 22%);
+}
+.letters p{
+    color:hsl(220, 15%, 55%);
+}
+.box{
+    margin:5px 5px;
+    padding:15px
+   
+}
